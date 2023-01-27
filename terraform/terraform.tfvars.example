@@ -1,0 +1,4 @@
+do_token         = "value"
+ssh_key_name     = "value"
+region           = "value"
+private_key_file = "value"
