@@ -58,3 +58,7 @@
     sudo apt-get update
     sudo apt-get install -y kubectl
 ```
+
+### Utils
+
+- kubectl get secret grafana -o jsonpath="{.data.admin-password}" | base64 --decode ; echo
