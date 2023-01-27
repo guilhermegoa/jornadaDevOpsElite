@@ -30,7 +30,7 @@
 ### Docker
 
 ```bash
-    url -fsSl https://get.docker.com | sh
+    curl -fsSl https://get.docker.com | sh
 ```
 
 ```bash
